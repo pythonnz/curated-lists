@@ -9,7 +9,7 @@ To curate a NZPUG recommended list of Python books that would enable any member 
 
 ## What needs to be done?
 
-1. Design what this list might look like? What should it cover? How far should it go? How far should it take people?
+1. Design what this list might look like. What should it cover? How far should it go? How far should it take people?
 2. Explore lobbying like-minded organisations, such as [Code Club Aotearoa](https://codeclub.nz/page/about) (which [already teaches Python](https://codeclub.nz/page/code-club-projects) using Raspberry Pi), in order to approach libraries jointly.
 3. Explore whether we can get corporate sponsors who would help New Zealand libraries to purchase some of the books.
 
