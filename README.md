@@ -1,5 +1,5 @@
 # Python books for libraries
-## A list of Python books curated by NZPUG which are to be to be suggested to all NZ public libraries for their purchase and display as part of their non-fiction collections.
+## A list of Python books curated by NZPUG which are to be suggested to all NZ public libraries for their purchase and display as part of their non-fiction collections.
 
 The Computing and Information Technology shelves in the Non-fiction sections of New Zealand libraries hold a variety of books about many general computing topic, programming being one of them. Each library has its own collections criteria so what one can find in one library catalog if very different to what can be found in another. That extends to Python programming books in New Zealand general libraries too.
 
