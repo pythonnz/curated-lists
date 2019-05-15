@@ -15,6 +15,6 @@ To curate a NZPUG recommended list of Python books that would enable any member 
 
 ## What might come next?
 
-1. Another curated Python boks list for school libraries with an integrated vision for primaries and secondaries (flow from one onto the other but still separate, age appropriate).
+1. Two curated Python books lists for school libraries with an integrated vision for primaries and secondaries (flow from one onto the other but still separate, age appropriate).
 2. A Python programming curriculum and resources for New Zealand schools.
 2. Another curated list for New Zealand Tertiary institutions.
