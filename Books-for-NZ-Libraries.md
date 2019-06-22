@@ -5,7 +5,7 @@ The Computing and Information Technology shelves in the Non-fiction sections of 
 
 ## The Idea
 
-To curate a NZPUG recommended list of Python books that would enable any member of the general public to pick up Python at a given point and progress in their understanding of Python from then on, just by moving from one book to the next in the library's Python collecion.
+To curate a NZPUG recommended list of Python books that would enable any member of the general public to pick up Python at a given point and progress in their understanding of Python from then on, just by moving from one book to the next in the library's Python collection.
 
 ## What needs to be done?
 
@@ -17,4 +17,13 @@ To curate a NZPUG recommended list of Python books that would enable any member 
 
 1. Two curated Python book lists for school libraries with an integrated vision for primaries and secondaries (flow from one onto the other but still separate, age appropriate).
 2. A Python programming curriculum and resources for New Zealand schools.
-2. Another curated list for New Zealand Tertiary institutions.
+3. Another curated list for New Zealand Tertiary institutions.
+
+
+## Lists
+
+### Tertiary Institutions
+
+* [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do) by William McKinney
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
+
