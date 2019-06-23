@@ -22,7 +22,7 @@ To curate a NZPUG recommended list of Python books that would enable any member 
 
 ## Lists
 
-## Libraries (primary)
+### Libraries (primary)
 
 * [Dive Into Python 3](https://www.amazon.com/gp/product/1430224150) - good introduction into Python 3, data structures, comprehensions, regexp, generators, iterators, testing, XML, ...
 
