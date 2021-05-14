@@ -3,6 +3,8 @@
 
 The Computing and Information Technology shelves in the Non-fiction sections of New Zealand libraries hold a variety of books about many general computing topics, programming being one of them. Each library has its own collections criteria so what one can find in one library catalog is very different to what can be found in another. That also extends to Python programming books in New Zealand general libraries.
 
+According to Public Libraries of New Zealand (https://publiclibraries.org.nz/find-a-library) as of May 2021 there are 315 public libraries in the country: 93 in the South Island, 220 in the North Island, 1 in Steward Island, and 1 in the Chatham Islands. 
+
 ## The Idea
 
 To curate a NZPUG recommended list of Python books that would enable any member of the general public to pick up Python at a given point and progress in their understanding of Python from then on, just by moving from one book to the next in the library's Python collection.
